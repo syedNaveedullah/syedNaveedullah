@@ -1,4 +1,5 @@
-![MasterHead](https://camo.githubusercontent.com/59abbe1a8058919c2878580931b307830bd4e614e16d08e78416ad233881e9ae/68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f35313335303233393236375f353435363037363365365f622e6a7067)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
+
 <h1 align="center">Hi 👋, I'm Syed Naveedullah Hussaini</h1>
 <h3 align="center">Full Stack Web developer and Graphic Designer</h3>
 
